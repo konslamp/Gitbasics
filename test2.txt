@@ -1,4 +1,2 @@
-
-cd
-cls
-exit
+First entry here
+Second entry, still in master.
